@@ -1,6 +1,6 @@
 # OptiPrompt
 
-This is the implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall]().
+This is the implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/pdf/2104.05240.pdf).
 
 Code is coming soon.
 
