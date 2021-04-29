@@ -42,7 +42,7 @@ The datasets are structured as below.
     ├── LAMA-TREx                         # The original LAMA-TREx test set (34,039 examples)
     │   ├── P17.jsonl                     # Testing file for the relation `P17`
     │   └── ...
-    ├── LAMA-TREx_UHN                     # The LAMA-TREx_UHN test set (examples)
+    ├── LAMA-TREx_UHN                     # The LAMA-TREx_UHN test set (27,102 examples)
     │   ├── P17.jsonl                     # Testing file for the relation `P17`
     │   └── ...
     ├── LAMA-TREx-easy-hard               # The easy and hard partitions of the LAMA-TREx dataset (check the paper for details)
