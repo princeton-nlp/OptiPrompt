@@ -3,7 +3,7 @@
 This is the PyTorch implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/pdf/2104.05240.pdf).
 
 We propose OptiPrompt, a simple and effective approach for Factual Probing. OptiPrompt optimizes the prompts on the input embedding space directly. It outperforms previous prompting methods on the LAMA benchmark.
-Furthermore, in order to better interprete probing results, we propose control experiments based on the probing results on randomly initialized models.
+Furthermore, in order to better interpret probing results, we propose control experiments based on the probing results on randomly initialized models.
 Please check [our paper](https://arxiv.org/pdf/2104.05240.pdf) for details.
 
 <img src="figure/optiprompt.png" width="800"/>
