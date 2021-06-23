@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Download the data
 We pack all datasets we used in our experiments [here](https://nlp.cs.princeton.edu/projects/optiprompt/data.tar.gz). Please download it and extract the files to `./data`, or run the following commands to autoamtically download and extract it.
 ```bash
-bash script/download_data.sh
+bash scripts/download_data.sh
 ```
 
 The datasets are structured as below.
