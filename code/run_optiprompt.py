@@ -107,8 +107,8 @@ if __name__ == "__main__":
     parser.add_argument('--eval_per_epoch', type=int, default=3)
 
     parser.add_argument('--do_shuffle', action='store_true')
-    parser.add_argument('--do_eval', action='store_true', help="whether to run training process")
-    parser.add_argument('--do_train', action='store_true', help="whether to run evaluation")
+    parser.add_argument('--do_eval', action='store_true', help="whether to run evaluation")
+    parser.add_argument('--do_train', action='store_true', help="whether to run training process")
     parser.add_argument('--check_step', type=int, default=-1, help='how often to output training loss')
 
     parser.add_argument('--seed', type=int, default=6)
