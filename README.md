@@ -172,7 +172,7 @@ Please modify the shell variables (i.e., `OUTPUTS_DIR`, `MODEL`, `RAND`) in `scr
 We provide a script to evaluate prompts released in previous works (based on `code/run_finetune.py` with only `--do_eval`). Please use the foolowing command:
 
 ```bash
-bash scripts/run_eval_prompts {lama | lpaqa | autoprompt}
+bash scripts/run_eval_prompts.sh {lama | lpaqa | autoprompt}
 ```
 
 ## Questions?
